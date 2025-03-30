@@ -1,0 +1,23 @@
+@import url('./botoes.css');
+@import url('./header.css');
+@import url('./banner.css');
+@import url('./gallery.css');
+@import url('./footer.css');
+
+* {
+    color: #25282E;
+}
+
+a, i {
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.secondary__color {
+    color: #555;
+}
+
+.center__image {
+    background-size: cover;
+    background-position: center;
+}

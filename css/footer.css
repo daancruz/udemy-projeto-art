@@ -1,0 +1,15 @@
+footer {
+    border-top: 1px solid #CCC;
+    height: 250px;
+    padding: 30px;
+}
+
+footer i {
+    font-size: 20px;
+    transition: .3s;
+}
+
+footer i:hover {
+    color: #C1B696;
+    transition: .3s;
+}

@@ -1,0 +1,15 @@
+.banner {
+    height: 400px;
+    background-image: url('../img/g_1.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+
+.content {
+    background-color: #FFF;
+    padding: 25px;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+}

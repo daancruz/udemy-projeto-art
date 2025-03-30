@@ -1,0 +1,16 @@
+header {
+    border-bottom: 1px solid #CCC;
+}
+
+.logo img {
+    width: 40px;
+}
+
+nav .row a {
+    color: #444;
+}
+
+nav .row a:hover {
+    color: #C1B696;
+    transition: .3s;
+}
